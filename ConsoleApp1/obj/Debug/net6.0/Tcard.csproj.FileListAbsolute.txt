@@ -1,0 +1,15 @@
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\bin\Debug\net6.0\Tcard.exe
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\bin\Debug\net6.0\Tcard.deps.json
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\bin\Debug\net6.0\Tcard.runtimeconfig.json
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\bin\Debug\net6.0\Tcard.dll
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\bin\Debug\net6.0\ref\Tcard.dll
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\bin\Debug\net6.0\Tcard.pdb
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\obj\Debug\net6.0\Tcard.csproj.AssemblyReference.cache
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\obj\Debug\net6.0\Tcard.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\obj\Debug\net6.0\Tcard.AssemblyInfoInputs.cache
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\obj\Debug\net6.0\Tcard.AssemblyInfo.cs
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\obj\Debug\net6.0\Tcard.csproj.CoreCompileInputs.cache
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\obj\Debug\net6.0\Tcard.dll
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\obj\Debug\net6.0\ref\Tcard.dll
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\obj\Debug\net6.0\Tcard.pdb
+D:\projects\TransportationCardConsoleApp\ConsoleApp1\obj\Debug\net6.0\Tcard.genruntimeconfig.cache
